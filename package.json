@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "body-parser": "^1.18.2",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "moment": "^2.20.1",
     "react": "^16.2.0",
     "react-datepicker": "^1.0.4",
